@@ -1,4 +1,4 @@
-IGNORE MISTAKED :)
+IGNORE MISTAKES :)
 
 Comments
 // this is a comment
