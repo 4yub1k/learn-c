@@ -33,7 +33,7 @@ int main (){
     }
     return 0;
 }
-DISADVANTAGES of switch
+// DISADVANTAGES of switch
 // float constant cannot be used in the switch as well as in the case.
 // You can not use the variable expression in case.
 // You cannot use the same constant in two different cases.

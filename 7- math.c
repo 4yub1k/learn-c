@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <math.h>
 //"" use
-// To run code runner as ouput , uncheck the setting>codee-runner>run in terminal
 int main (){
     
     double a = sqrt(9);
