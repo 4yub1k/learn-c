@@ -28,7 +28,7 @@ NOTE: Read Book side by side.
 &emsp;[17- Do-while](https://github.com/4yub1k/learn-c/blob/main/17-%20do-while.c) \
 &emsp;[18- Nested loop](https://github.com/4yub1k/learn-c/blob/main/18-%20nested%20loop.c) \
 &emsp;[19- Continue and break](https://github.com/4yub1k/learn-c/blob/main/19-%20continue%20and%20break.c) \
-&emsp;[20- Array](https://github.com/4yub1k/learn-c/blob/main/20-%20Array.c)
+&emsp;[20- Array](https://github.com/4yub1k/learn-c/blob/main/20-%20Array.c) \
 &emsp;&ensp;[20.1- 2D Array](https://github.com/4yub1k/learn-c/blob/main/20.1%202D%20array.c) \
 &emsp;&ensp;[20.2- MultiDimenional Array](https://github.com/4yub1k/learn-c/blob/main/20.2%20Multi%20dimen%20Array.c) \
 &emsp;&ensp;[20.3- 3D-Array.jpg](https://github.com/4yub1k/learn-c/blob/main/20.3%203D-array.jpg) \
