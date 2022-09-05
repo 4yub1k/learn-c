@@ -1,6 +1,21 @@
 # learn-c
 C practice ground
 
+### Install:
+1. C\C++ [VS Code plugin]
+1. Code Runner [VS Code plugin] (**Optional**)
+1. MingW x64 windows [Download](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)  and install.
+1. Add PATH to *bin*, in **User variables**. C:\mingw64\bin, or where you installed mingw64/bin
+1. Check if path is working. Open CMD and enter gcc --version
+```
+C:\Windows\System32>gcc --version
+gcc (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+```
+
+
 NOTE: Read Book side by side.
 ##### Table of Contents  
 &emsp;[1- Comments & escape sequences](https://github.com/4yub1k/learn-c/blob/main/1-%20comments%20%26%20escape%20sequences.c) \
