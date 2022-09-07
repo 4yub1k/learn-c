@@ -16,7 +16,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
 
-NOTE: Read Book side by side.
+NOTE: Read Book side by side. [Download](https://github.com/4yub1k/learn-c/blob/main/The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan).pdf)
 ##### Table of Contents  
 &emsp;[1- Comments & escape sequences](https://github.com/4yub1k/learn-c/blob/main/1-%20comments%20%26%20escape%20sequences.c) \
 &emsp;[2- Variables](https://github.com/4yub1k/learn-c/blob/main/2-%20variables%20.c) \
