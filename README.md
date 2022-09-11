@@ -17,7 +17,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 
 NOTE: Read Book side by side. [Download](https://github.com/4yub1k/learn-c/blob/main/The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan).pdf)
-##### Table of Contents  
+### Table of Contents  
 &emsp;[1- Comments & escape sequences](https://github.com/4yub1k/learn-c/blob/main/1-%20comments%20%26%20escape%20sequences.c) \
 &emsp;[2- Variables](https://github.com/4yub1k/learn-c/blob/main/2-%20variables%20.c) \
 &emsp;[3- Data types](https://github.com/4yub1k/learn-c/blob/main/3-%20data%20types.c) \
@@ -52,10 +52,20 @@ NOTE: Read Book side by side. [Download](https://github.com/4yub1k/learn-c/blob/
 &emsp;[23- Type def #](https://github.com/4yub1k/learn-c/blob/main/23.%20type%20def%20%23.c) \
 &emsp;[24- Array of structs](https://github.com/4yub1k/learn-c/blob/main/24-%20array%20of%20structs.c) \
 &emsp;[25- Enums](https://github.com/4yub1k/learn-c/blob/main/25-%20enums.c) \
-&emsp;[26- Bitwise(Logic)](https://github.com/4yub1k/learn-c/blob/main/26-%20Bitwise(gates).c) 
+&emsp;[26- Bitwise(Logic)](https://github.com/4yub1k/learn-c/blob/main/26-%20Bitwise(gates).c) \
+&emsp;[27- Memory](https://github.com/4yub1k/learn-c/blob/main/27-%20memory.c) \
+&emsp;[28- Pointers](https://github.com/4yub1k/learn-c/blob/main/28-%20Pointers.c) \
+&emsp;[29- Files](https://github.com/4yub1k/learn-c/blob/main/29.%20files.c) \
+&emsp;[30- Goto-statement](https://github.com/4yub1k/learn-c/blob/main/30.%20goto%20statement.c)
 
+### Programs:
 
+- Sorting Array : [Click](https://github.com/4yub1k/learn-c/blob/main/array%20sorting.c)
+- Calculator : [Click](https://github.com/4yub1k/learn-c/blob/main/calculator.c)
+- Guess Number : [Click](https://github.com/4yub1k/learn-c/blob/main/guess%20the%20number.c)
+- Quiz : [Click](https://github.com/4yub1k/learn-c/blob/main/quiz.c)
+- Random Number : [Click](https://github.com/4yub1k/learn-c/blob/main/random%20num.c)
+- Swaping : [Click](https://github.com/4yub1k/learn-c/blob/main/swap.c)
+- TicTacToe : [Click](https://github.com/4yub1k/learn-c/blob/main/ticTac.c)
 
-
-
-
+**Hope you enjoyed it 🍰, Feel free to share it.**
